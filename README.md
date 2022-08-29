@@ -20,5 +20,3 @@
 ### Clustering
 - [x] [K-Means Clustering](https://github.com/surejyaa/Machine-Learning-with-Python/blob/main/03.Clustering/14.K_Means_Clustering.ipynb)
 - [x] [Hierarchical Clustering](https://github.com/surejyaa/Machine-Learning-with-Python/blob/main/03.Clustering/15.Hierarchical_Clustering.ipynb)
-
-### Classification
