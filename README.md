@@ -16,3 +16,9 @@
 - [x] [Naive Bayes](https://github.com/surejyaa/Machine-Learning-with-Python/blob/main/02.Classification/11.Naive_Bayes.ipynb)
 - [x] [Decision Tree Classification](https://github.com/surejyaa/Machine-Learning-with-Python/blob/main/02.Classification/12.Decision_Tree_Classification.ipynb)
 - [x] [Random Forest Classification](https://github.com/surejyaa/Machine-Learning-with-Python/blob/main/02.Classification/13.Random_Forest_Classification.ipynb)
+
+### Clustering
+- [x] [K-Means Clustering](https://github.com/surejyaa/Machine-Learning-with-Python/blob/main/03.Clustering/14.K_Means_Clustering.ipynb)
+- [x] [Hierarchical Clustering](https://github.com/surejyaa/Machine-Learning-with-Python/blob/main/03.Clustering/15.Hierarchical_Clustering.ipynb)
+
+### Classification
